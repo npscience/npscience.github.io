@@ -2,6 +2,12 @@
 
 I'm building a home on the web. 
 
+```
+theme: jekyll-theme-midnight
+title: Exocytosis
+description: Where npscience unloads her musings and memories
+```
+
 If you've something to offer or reflect about this, please do so via the Issues. Feedback is welcome <3 and please do not send a pull request without chatting with me first.
 
 # Acknowledgements
