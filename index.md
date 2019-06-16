@@ -1,3 +1,5 @@
+**This site (all of it) is under construction. Wear a hard hat and googles.**
+
 Welcome,  do come in. Shoes off, please. How are you treating life? Can I get you a cup of tea? 
 
 Welcome, explore my connected post-synaptic space. And reach out – perhaps we'd enjoy discussing and learning face-to-face. 
