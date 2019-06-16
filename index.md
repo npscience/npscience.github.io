@@ -12,4 +12,5 @@ Welcome, explore my connected post-synaptic space. And reach out – perhaps we'
 
 # Channels
 Email me at work: naomi dot penfold at asapbio dot org
+
 Tweet me: @npscience
