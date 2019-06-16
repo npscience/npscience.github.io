@@ -1,3 +1,16 @@
+# Hello
+
+I'm building a home on the web. 
+
+If you've something to offer or reflect about this, please do so via the Issues. Feedback is welcome <3 and please do not send a pull request without chatting with me first.
+
+# Acknowledgements
+
+Danielle Robinson's site formed the template for Emmy Tsang to build the first draft of this site with contributions from Elsa Loissel. Toby Hodges rekindled my aspiration to do this. I've been watching and learning from many others too. Constant support and nudging has brought me to make this my own.
+
+I'm starting with a simple theme: [Midnight](https://github.com/pages-themes/midnight), by pages-themes.
+
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/npscience/npscience.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
