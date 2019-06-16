@@ -1,3 +1,7 @@
 theme: jekyll-theme-midnight
 title: Exocytosis
 description: Where npscience unloads her musings and memories
+
+github:
+ repository_url: https://github.com/npscience/npscience.github.io/
+ owner_url: https://github.com/npscience/npscience.github.io/
