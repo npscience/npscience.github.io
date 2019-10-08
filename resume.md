@@ -4,6 +4,8 @@ Associate Director @ [ASAPbio](https://asapbio.org)
 Twitter [@npscience](https://twitter.org/npscience) | [ORCID](http://orcid.org/0000-0003-0568-1194) | Github [@npscience](https://github.com/npscience) 
 
 #### Events
+Slides and recordings for ASAPbio talks are available from [asapbio.org/resources](https://asapbio.org/resources)
+
 | Event | Location | Date | Role | Description |
 | -------- | ------ | -------- | ---- | ------------ |
 | [Neuroinformatics 2019](https://www.neuroinformatics2019.org) | Warsaw, Poland | Sep 1-2, 2019 | Keynote | *TBC* |
@@ -31,9 +33,16 @@ Twitter [@npscience](https://twitter.org/npscience) | [ORCID](http://orcid.org/0
 | csv,conf,v3 | Portland, US | May 2-3, 2017 | Speaker | [Slides](https://figshare.com/articles/csvconfv3-presentation/4964999) |
 
 #### Writing
-* [Charting the Dimensions of Preprint Policies](https://cdn.ymaws.com/www.ismte.org/resource/resmgr/eon_shared_articles/Charting_the_Dinemsions.pdf)
-* [Getting ahead of the curve as a community manager](https://medium.com/@npscience/getting-ahead-of-the-curve-as-a-community-manager-922dfc3d0f6f)
-* [An agile community strategy — or how to use OKRs to say no and stay focused](https://blog.trelliscience.com/an-agile-community-strategy-or-how-to-use-okrs-to-say-no-and-stay-focused/)
+Academic works (preprints, articles, peer review reports) are collated at https://orcid.org/0000-0003-0568-1194.
+
+Elsewhere:
+* [What do preprints need to be more useful in evaluation](https://sfdora.org/2019/10/07/what-do-preprints-need-to-be-more-useful-in-evaluation/) [archived](http://web.archive.org/web/20191008130146/https://sfdora.org/2019/10/07/what-do-preprints-need-to-be-more-useful-in-evaluation/) - Oct 2019 thoughtpiece for DORA envisioning how preprints could be a substrate for improved research assessment practices, co-authored with Jessica Polka
+* [Preprints are valid research outputs for REF2021](https://asapbio.org/preprints-valid-for-ref2021) [archived](http://web.archive.org/web/20191008130225/https://asapbio.org/preprints-valid-for-ref2021) - Aug 2019 summary of how preprints can be included in the next UK research institution funding assessment exercise, the Research Evaluation Framework, or REF
+* [ASAPbio supports NIH CSR proposal to notify study sections about NIH preprint policy](https://asapbio.org/nih-csr-feedback) [archived](http://web.archive.org/web/20191008132352/https://asapbio.org/nih-csr-feedback) and [NIH CSR reiterates to study section reviewers that preprints may be cited in applications](https://asapbio.org/nih-csr-response) [archived](http://web.archive.org/web/20191008132421/https://asapbio.org/nih-csr-response) - May and July 2016 blogposts detailing investigation into how the NIH's preprint policy is being put into practice during application reviews
+* [Charting the Dimensions of Preprint Policies](https://cdn.ymaws.com/www.ismte.org/resource/resmgr/eon_shared_articles/Charting_the_Dinemsions.pdf) [doi: 10.18243/eon/2019.12.2.3](https://doi.org/10.18243/eon/2019.12.2.3) – March 2019 article about different elements discovered in journal preprint policies through the Transpose project
+* [Getting ahead of the curve as a community manager](https://medium.com/@npscience/getting-ahead-of-the-curve-as-a-community-manager-922dfc3d0f6f) [archived](http://web.archive.org/web/20191008132808/https://medium.com/@npscience/getting-ahead-of-the-curve-as-a-community-manager-922dfc3d0f6f) – April 2019 write-up of my process to consider the engagement curve for ASAPbio ambassadors
+* [An agile community strategy — or how to use OKRs to say no and stay focused](https://blog.trelliscience.com/an-agile-community-strategy-or-how-to-use-okrs-to-say-no-and-stay-focused/) [archived](http://web.archive.org/web/20191008133125/https://blog.cscce.aaas.org/an-agile-community-strategy-or-how-to-use-okrs-to-say-no-and-stay-focused/) – March 2019 blogpost about agile stategy development for community management (for CEFP2019 fellowship)
+* [Surveying the landscape of products and services for sharing preprints](https://asapbio.org/preprint-products) [archived](http://web.archive.org/web/20190215155810/http://asapbio.org/preprint-products) – Feb 2019 webpage listing the various preprint platforms and service providers
 * eLife Labs (2016-2018): [elifesciences.org/labs](https://elifesciences.org/labs)
 * [The Reproducible Document Stack reinvents the journal publication for a world of computationally
 reproducible research](https://zenodo.org/record/1311612/files/RO2018-RDSabstract.pdf)
@@ -42,17 +51,16 @@ reproducible research](https://zenodo.org/record/1311612/files/RO2018-RDSabstrac
 * [Science communication: Know your audience](http://blogs.nature.com/naturejobs/2015/08/21/science-communication-know-your-audience/)
 
 #### Audio
-* Science Disrupt podcast, recorded January 2019, released June 2019 (link TBC)
-* Open science podcast by Rachel Harding, recorded in interview with Daniela Saderi at FORCE 2018 (October 2018) and released *TBD* (link TBC)
+Featured on:
+* eLife Innovation Sprint 2019 podcast – speaking about the Hidden Preprints project and in conversation with Emmy Tsang about organising the Sprint event; produced by Jo Barratt, Hannah Drury and Elsa Loissel; available from the [eLife Labs blog](https://elifesciences.org/labs/c1978831/innovation-sprint-a-podcast) [archived](http://web.archive.org/web/20191008133909/https://elifesciences.org/labs/c1978831/innovation-sprint-a-podcast) and from [Soundcloud](https://soundcloud.com/user-442729760/elife-sprint-2019-podcast).
+* Science Disrupt podcast, recorded January 2019, released June 2019 [here](http://sciencedisrupt.libsyn.com/innovator-stories-episode-3) – **transcript TBD**
+* Open science podcast by Rachel Harding, recorded in interview with Daniela Saderi at FORCE 2018 (October 2018) and released (with a transcript) by the Canadian Open Neuroscience Platform (CONP) [here](https://conp.ca/conp-at-force11-2018-with-naomi-penfold-and-daniela-saderi/) [archived](http://web.archive.org/web/20191008134533/https://conp.ca/conp-at-force11-2018-with-naomi-penfold-and-daniela-saderi/) and on [Soundcloud](https://soundcloud.com/neuro-libre/conp-at-force-11-2018-with-naomi-and-daniella/s-WibBx#t=0:00)
 
 #### Education
 
 2016 - PhD in Clinical Biochemistry, University of Cambridge
-
 2012 - MRes, University of Cambridge
-
 2011 - BA (Hons) in Natural Sciences, University of Cambridge
-
 
 **v1 of this resume was assembled by [Emmy Tsang](https://github.com/emmyft) with <3 and kindness**
 
