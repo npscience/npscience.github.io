@@ -1,5 +1,5 @@
 Naomi Penfold
-Twitter [@npscience](https://twitter.org/npscience) | [ORCID](http://orcid.org/0000-0003-0568-1194) | Github [@npscience](https://github.com/npscience) 
+Twitter [@npscience](https://twitter.org/npscience) | ORCID: [0000-0003-0568-1194](http://orcid.org/0000-0003-0568-1194) | Github [@npscience](https://github.com/npscience) 
 
 ## My focus
 - **Championing and supporting others** — including asking the right questions, but not necessarily evaluation or feedback; I’m a coach, not a referee.
@@ -8,7 +8,8 @@ Twitter [@npscience](https://twitter.org/npscience) | [ORCID](http://orcid.org/0
 - **Strategy development** – I like understanding the landscape, the gaps, opportunities and priorities, and building a strategy from this.
 - **Equitable innovation** – I am focussing my learning on whether advances in some places offer advances to everyone, or to an already privileged subgroup. This is important to me because I am interested helping anyone to answer questions and make life better for themselves locally, and I prefer not to focus on national productivity or competitive advantages. Openness in science may be a way toward this goal, if implemented equitably, or designed for those with the greatest disadavantages in scholarship right now.
 
-#### Employment
+## Employment
+
 2020-02 – current | Community Manager @ [eLife](https://elifesciences.org/about/early-career)
 
 2018-10 – 2020-01 | Associate Director @ [ASAPbio](https://asapbio.org)  
@@ -17,7 +18,7 @@ Twitter [@npscience](https://twitter.org/npscience) | [ORCID](http://orcid.org/0
 
 2016-02 – 2016-11 | Events Coordinator @ [eLife](https://elifesciences.org/)
 
-#### Events
+## Events
 Slides and recordings for ASAPbio talks are available from [asapbio.org/resources](https://asapbio.org/resources)
 
 | Event | Location | Date | Role | Description |
@@ -50,7 +51,7 @@ Slides and recordings for ASAPbio talks are available from [asapbio.org/resource
 | ODSC East | Boston, US | May 3-5, 2017 | Participant | *TBC* |
 | csv,conf,v3 | Portland, US | May 2-3, 2017 | Speaker | [Slides](https://figshare.com/articles/csvconfv3-presentation/4964999) |
 
-#### Writing
+## Writing
 Academic works (preprints, articles, peer review reports) are collated at https://orcid.org/0000-0003-0568-1194.
 
 Elsewhere:
@@ -68,13 +69,13 @@ reproducible research](https://zenodo.org/record/1311612/files/RO2018-RDSabstrac
 * [Fostering collaboration at MozFest](https://medium.com/@npscience/fostering-collaboration-at-mozfest-dc5e8c9246e1)
 * [Science communication: Know your audience](http://blogs.nature.com/naturejobs/2015/08/21/science-communication-know-your-audience/)
 
-#### Audio
+## Audio
 Featured on:
 * eLife Innovation Sprint 2019 podcast – speaking about the Hidden Preprints project and in conversation with Emmy Tsang about organising the Sprint event; produced by Jo Barratt, Hannah Drury and Elsa Loissel; available from the [eLife Labs blog](https://elifesciences.org/labs/c1978831/innovation-sprint-a-podcast) [archived](http://web.archive.org/web/20191008133909/https://elifesciences.org/labs/c1978831/innovation-sprint-a-podcast) and from [Soundcloud](https://soundcloud.com/user-442729760/elife-sprint-2019-podcast).
 * Science Disrupt podcast, recorded January 2019, released June 2019 [here](http://sciencedisrupt.libsyn.com/innovator-stories-episode-3) – **transcript TBD**
 * Open science podcast by Rachel Harding, recorded in interview with Daniela Saderi at FORCE 2018 (October 2018) and released (with a transcript) by the Canadian Open Neuroscience Platform (CONP) [here](https://conp.ca/conp-at-force11-2018-with-naomi-penfold-and-daniela-saderi/) [archived](http://web.archive.org/web/20191008134533/https://conp.ca/conp-at-force11-2018-with-naomi-penfold-and-daniela-saderi/) and on [Soundcloud](https://soundcloud.com/neuro-libre/conp-at-force-11-2018-with-naomi-and-daniella/s-WibBx#t=0:00)
 
-#### Education
+## Education
 
 2016 - PhD in Clinical Biochemistry, University of Cambridge
 2012 - MRes, University of Cambridge
