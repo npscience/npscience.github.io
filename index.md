@@ -5,13 +5,11 @@ Welcome,  do come in. Shoes off, please. How are you treating life? Can I get yo
 Welcome, explore my connected post-synaptic space. And reach out – perhaps we'd enjoy discussing and learning face-to-face. 
 
 # Chambers
-* [My bio](/about-me.md) — brief, with values and competing interests
-* [My CV](/resume.md) – where have I been?
-* *TBD* Gratitude reel — I'm no island
+* [About me](/about-me.md) — brief bio (inc. competing interests)
+* [My CV](/resume.md) – where have I been, what have I seen, read, written and said?
 * *TBD* Weeknotes – what's been happening at work and in life?
-* *TBD* Soapbox – am I expressing myself clearly? Blogs, talks, moments in public
-* *TBD* Scribbles – notes, ideas, readings, thoughts
-* *TBD* The zest – things I find fun
+* *TBD* Soapbox – a space for developed thoughts (blogs) and undeveloped murmurs (scribbles)
+* *TBD* Gratitude reel — I'm no island
 
 # Channels
 Email me at work: nc dot penfold at elifesciences dot org
