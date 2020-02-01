@@ -1,20 +1,35 @@
 Naomi Penfold
-
-Associate Director @ [ASAPbio](https://asapbio.org)  
 Twitter [@npscience](https://twitter.org/npscience) | [ORCID](http://orcid.org/0000-0003-0568-1194) | Github [@npscience](https://github.com/npscience) 
+
+## My focus
+- **Championing and supporting others** — including asking the right questions, but not necessarily evaluation or feedback; I’m a coach, not a referee.
+- **Events that build community** — thinking about the people, what they need in order to engage with each other, be productive together,  feel part of something and welcomed.
+- **Providing information to help others** — finding things out and presenting the information for others to learn, understand and use. I'm good at finding out the details; I want to improve at summarising it simply and elegantly for others.
+- **Strategy development** – I like understanding the landscape, the gaps, opportunities and priorities, and building a strategy from this.
+- **Equitable innovation** – I am focussing my learning on whether advances in some places offer advances to everyone, or to an already privileged subgroup. This is important to me because I am interested helping anyone to answer questions and make life better for themselves locally, and I prefer not to focus on national productivity or competitive advantages. Openness in science may be a way toward this goal, if implemented equitably, or designed for those with the greatest disadavantages in scholarship right now.
+
+#### Employment
+2020-02 – current | Community Manager @ [eLife](https://elifesciences.org/about/early-career)
+2018-10 – 2020-01 | Associate Director @ [ASAPbio](https://asapbio.org)  
+2016-11 – 2018-10 | Innovation Officer @ [eLife](https://elifesciences.org/labs)
+2016-02 – 2016-11 | Events Coordinator @ [eLife](https://elifesciences.org/)
 
 #### Events
 Slides and recordings for ASAPbio talks are available from [asapbio.org/resources](https://asapbio.org/resources)
 
 | Event | Location | Date | Role | Description |
 | -------- | ------ | -------- | ---- | ------------ |
-| [Neuroinformatics 2019](https://www.neuroinformatics2019.org) | Warsaw, Poland | Sep 1-2, 2019 | Keynote | *TBC* |
-| FAIR Science Edinburgh | University of Edinburgh, UK | June 4, 2019 | Speaker | *Slides TBC* |
-| [CCBI Annual Symposium](https://www.eventbrite.co.uk/e/ccbi-annual-symposium-tickets-60726345133) | Cambridge, UK | May 15, 2019 | Speaker | *TBC* |
+| [ASAPbio Jan 2020 workshop](https://asapbio.org/meetings/preprints-roadmap-2020) | EMBL-EBI, Hinxton, UK | Jan 20, 2020 | 15-min talk about the ASAPbio preprint server directory research with Jamie Kirkham, Fiona Murphy and others | [Talk slides](https://doi.org/10.5281/zenodo.3626770) and [accompanying data](https://doi.org/10.5281/zenodo.3612693), plus [workshop blog](https://asapbio.org/building-trust-in-preprints-together) |
+| [FORCE2019](https://www.force11.org/meetings/force2019) | Edinburgh, UK | Oct 16, 2019 | 1-hour talk panel with Dario Taraborelli (CZI), Theo Bloom (The BMJ and medRxiv), Amye Kenall (Springer Nature) and Humberto Debat (National Institute of Agricultural Technology, Argentina) | [slides](https://doi.org/10.5281/zenodo.3515895), [blog](https://asapbio.org/force2019-preprints-success-panel) & follow-up dinner report [blog](https://asapbio.org/force2019-preprints-vision-dinner) |
+| ZMBP Annual Student Symposium 2019 | near Tubingen, Germany | Sep 24, 2019 | Talk and workshop | 25-min talk ([slides, .pptx](https://drive.google.com/open?id=1goitP81qWaSKgcZQCTJsVLe_bDE9WCfI)) and 1-hour workshop ([slides, .pptx](https://drive.google.com/open?id=199VKuOw6K1ThR-KaT1QNu5hnYNcCrINQ)) to ~30 PhD students from Center for Plant Molecular Biology (ZMBP), University of Tubingen (closed event) |
+| [Neuroinformatics 2019](https://www.neuroinformatics2019.org) | Warsaw, Poland | Sep 1-2, 2019 | Keynote | 25-min talk to ~100 people at annual INCF conference: [slides](https://doi.org/10.5281/zenodo.3383803) |
+| WACCBIP annual symposium 2019 | Accra, Ghana | Jul 24, 2019 | 15-min talk | 'Preprints: an opportunity for African Science?' ([slides](https://doi.org/10.5281/zenodo.3346063); [video](https://youtu.be/JghmJOjy0l4?t=1616)) |
+| FAIR Science Edinburgh | University of Edinburgh, UK | June 4, 2019 | Speaker | Preprints as part of the open science toolbox, presented to attendees of a reproducible research one-day workshop at Uni of Edinburgh: [slides](https://docs.google.com/presentation/d/1oTN5UmOZEQkZO62Y8wEVQHEgnrt5-qMjDEBH_Ah3MmA/edit?usp=sharing) |
+| [CCBI Annual Symposium](https://www.eventbrite.co.uk/e/ccbi-annual-symposium-tickets-60726345133) | Cambridge, UK | May 15, 2019 | Speaker | [slides](https://docs.google.com/presentation/d/1G-aVH5NimKRgMz1fnRFnPQ4ioaabUDFBR8zBQTgKw_c/edit?usp=sharing) |
 | University of Cambridge Lunch & Learn | Cambridge, UK | April 26, 2019 | Workshop organiser & lead | *TBC* |
 | OpenCon 2018 | Toronto, Canada | Nov 2-4, 2018 | Regional workshop co-lead with Katerina Dima | [Workshop session link](https://sched.co/IPEC) |
 | MozFest 2018 | London, UK | Oct 26-28, 2018 | Activity support to co-organisers Stuart King and Elsa Loissel | *Hello, do you hear me? The other side of open science* [proposal](https://github.com/MozillaFestival/mozfest-program-2018/issues/286) |
-| FORCE 2018 | Montreal, Canada | Oct  | Attendee | *TBC*|
+| FORCE 2018 | Montreal, Canada | Oct 2018 | Attendee | *no notes* |
 | [Wholetale workshop](https://wholetale.org/2018/06/26/working-group-workshop.html) | Chicago, US | Sep 13-14, 2018 | Lightning Talk | [Slides on reproducibility](https://figshare.com/articles/eLife_Reproducible_Document_Stack_lightning_talk_WholeTale_workshop_September_2018/7076822) |
 | [Software Deposition Workshop](https://www.eventbrite.co.uk/e/software-deposit-and-preservation-workshop-tickets-46441779613) | Oxford, UK | July 11, 2018 | Speaker | [Slides](https://figshare.com/articles/Software_preservation_a_publisher_s_perspective/6799097) |
 | CCBI Annual Symposium | Cambridge, UK | May 16, 2018 | Speaker | *TBC* |
