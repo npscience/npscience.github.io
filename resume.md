@@ -10,8 +10,11 @@ Twitter [@npscience](https://twitter.org/npscience) | [ORCID](http://orcid.org/0
 
 #### Employment
 2020-02 – current | Community Manager @ [eLife](https://elifesciences.org/about/early-career)
+
 2018-10 – 2020-01 | Associate Director @ [ASAPbio](https://asapbio.org)  
+
 2016-11 – 2018-10 | Innovation Officer @ [eLife](https://elifesciences.org/labs)
+
 2016-02 – 2016-11 | Events Coordinator @ [eLife](https://elifesciences.org/)
 
 #### Events
