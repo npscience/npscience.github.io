@@ -4,7 +4,7 @@ I am a community builder working in the life sciences to foster collaboration an
 
 
 - Community Manager, eLife (current employment; Feb 2020 – current)
-- Member of the PREreview Steering Committee (Feb 2020 – current; previously on Advisory Committee)
+- Member of the PREreview Advisory Committee (Feb 2020 – current; previously an advisor)
 - Member of Dryad Board of Directors (Jul 2019 - 2022)
 - #CEFP2019 fellow, CSCCE (2019)
 - OpenCon alumnus (2016, 2017, 2018), workshop co-lead (2017, 2018), organising committee member (2017) and application reviewer (2017, 2018)
