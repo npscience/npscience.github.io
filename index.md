@@ -26,6 +26,8 @@ To try to improve the benefit of science to society, and share the wealth scienc
 
 I am moved by injustice and inequality, humans facing hard times, mother earth, food and nutrition (I did a PhD on obesity and eating; my current curiosity is edible :bug: :cricket:)
 
+[Image credits and info](/assets/img/source_credits.md)
+
 # Channels...
 
 Tweet me: [@npscience](https://www.twitter.com/npscience)
