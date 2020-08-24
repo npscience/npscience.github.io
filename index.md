@@ -10,18 +10,17 @@ Welcome, explore my connected post-synaptic space. And reach out – perhaps we'
 * [Competing interests](/about-me.md)
 
 # At the nucleus...
-
-<img src="/assets/img/Sprint2018photo.jpg" alt="The 60 participants at the eLife Sprint 2018 celebrate with raised hands in a group photo" style="height: 650px; width: 329px;"/>
 I am enthused by delivering great experiences and events. 
+<img src="/assets/img/Sprint2018photo.jpg" alt="The 60 participants at the eLife Sprint 2018 celebrate with raised hands in a group photo" style="height: 329px; width: 650px;"/>
 
-CEFP image?
 I coach, I question, I facilitate, I think, I strategise, I design.
+sprint 2019 or cefp?
 
-mealworms? beautiful earth? protest?
-I am moved by injustice and inequality, humans facing hard times, mother earth, food and nutrition (see PhD; current curiosity is edible :bug: :cricket:)
-
+To try to improve the benefit of science to society, and share the wealth science creates, I currently work to advocate for/build/promote equitable knowledge processes and communication.
 me giving a talk? FORCE2019?
-To try to improve the benefit of science to society, and share the wealth science creates, I currently work to advocate for/build/promote equitable knowledge processes and communication
+
+I am moved by injustice and inequality, humans facing hard times, mother earth, food and nutrition (I did a PhD on obesity and eating; my current curiosity is edible :bug: :cricket:)
+mealworms? beautiful earth? protest?
 
 # Channels...
 Tweet me: [@npscience](https://www.twitter.com/npscience)
