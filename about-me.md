@@ -12,3 +12,5 @@ I am a community builder working in the life sciences to foster collaboration an
 - Previously Events Coordinator and Innovation Officer at eLife (2016-2018), where she worked to support early-career researchers, discover open source tools for open science and foster innovation through the eLife Sprint 2018
 
 More details in [my resume](/resume.md).
+
+[Return home](https://npscience.github.io)
