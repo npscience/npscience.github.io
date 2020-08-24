@@ -1,6 +1,9 @@
+[Return home](https://npscience.github.io/)
+
 # Naomi Penfold
 
-Twitter [@npscience](https://twitter.org/npscience) | ORCID: [0000-0003-0568-1194](http://orcid.org/0000-0003-0568-1194) | Github [@npscience](https://github.com/npscience) 
+ORCID [0000-0003-0568-1194](http://orcid.org/0000-0003-0568-1194) | LinkedIn [naomipenfold](https://www.linkedin.com/in/naomipenfold/)
+Twitter [@npscience](https://twitter.org/npscience) | Github [@npscience](https://github.com/npscience) 
 
 ## My focus
 - **Championing and supporting others** — including asking the right questions, but not necessarily evaluation or feedback; I’m a coach, not a referee.
