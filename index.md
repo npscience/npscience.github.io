@@ -24,7 +24,7 @@ To try to improve the benefit of science to society, and share the wealth scienc
 
 <img src="/assets/img/FORCE2019_mewithpanelinaction_600x341.jpeg" alt="Naomi presenting a talk at FORCE2019 with projected conference slide in background" style="height: 369px; width: 650px;"/>
 
-I am moved by injustice and inequality, humans facing hard times, mother earth, food and nutrition (I did a PhD on obesity and eating; my current curiosity is edible :bug: :cricket:)
+I am moved by injustice and inequality, humans facing hard times, mother earth, food and nutrition (I did a PhD on obesity and eating; my current curiosity is edible ::bug:: ::cricket::)
 
 [Image credits and info](/source_credits.md)
 
