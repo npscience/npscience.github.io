@@ -11,7 +11,7 @@ Welcome, explore my connected post-synaptic space. And reach out – perhaps we'
 
 # At the nucleus...
 
-<img src="/assets/img/Sprint2018photo.jpg" alt="The 60 participants at the eLife Sprint 2018 celebrate with raised hands in a group photo" style="height: 3000px; width:1517px;"/>
+<img src="/assets/img/Sprint2018photo.jpg" alt="The 60 participants at the eLife Sprint 2018 celebrate with raised hands in a group photo" style="height: 650px; width: 329px;"/>
 I am enthused by delivering great experiences and events. 
 
 CEFP image?
