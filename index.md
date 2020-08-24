@@ -11,7 +11,7 @@ Welcome, explore my connected post-synaptic space. And reach out – perhaps we'
 
 # At the nucleus...
 I am enthused by delivering great experiences and events. 
-<img src="/assets/img/Sprint2018photo.jpg" alt="The 60 participants at the eLife Sprint 2018 celebrate with raised hands in a group photo" style="height: 650px; width: 329px;"/>
+<img src="/assets/img/Sprint2018photo.jpg" alt="The 60 participants at the eLife Sprint 2018 celebrate with raised hands in a group photo" style="height: 329px; width: 650px;"/>
 
 I coach, I question, I facilitate, I think, I strategise, I design.
 sprint 2019 or cefp?
