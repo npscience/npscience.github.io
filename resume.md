@@ -13,6 +13,16 @@ Twitter [@npscience](https://twitter.com/npscience) | Github [@npscience](https:
 - **Strategy development** – I like understanding the landscape, the gaps, opportunities and priorities, and building a strategy from this. To flex my creative muscles, I practise improv comedy with a small troupe.
 - **Equitable innovation** – I am focussing my learning on whether advances in some places offer advances to everyone, or to an already privileged subgroup. This is important to me because I am interested helping anyone to answer questions and make life better for themselves locally, and I prefer not to focus on national productivity or competitive advantages. Openness in science may be a way toward this goal, if implemented equitably, or designed for those with the greatest disadavantages in scholarship right now. To keep learning, I join book clubs and read/listen/watch.
 
+## Employment
+
+2020-02 – current | Community Manager (maternity cover) @ [eLife](https://elifesciences.org/about/early-career)
+
+2018-10 – 2020-01 | Associate Director @ [ASAPbio](https://asapbio.org)  
+
+2016-11 – 2018-10 | Innovation Officer @ [eLife](https://elifesciences.org/labs)
+
+2016-02 – 2016-11 | Events Coordinator @ [eLife](https://elifesciences.org/)
+
 ## Professional Development
 
 **UAL Service Design Short Course, Summer 2020** | 7-week online course by Megha Wadhawan, University of Arts London, introducing service design and key methodologies and principles, June-August 2020. _Portfolio pending._
@@ -26,16 +36,6 @@ Twitter [@npscience](https://twitter.com/npscience) | Github [@npscience](https:
 **CSCCE CEFP 2019 fellowship** | Scientific Community Engagement Fellowship by [CSCCE](https://www.cscce.org/cefp/meet-our-fellows/), including learning about community management best practices and theory, developing strategy and a handover document for ASAPbio ambassadors, and running a survey of community members across 14 scientific communities to understand why people start contributing, what helps them stay, and why they may leave (see 'Busy Bees' at https://www.cscce.org/cefp/cefp-project-teams/) - and see [the cohort celebrate our graduation](https://www.cscce.org/2020/01/22/congratulations-to-the-cef2019-fellows-on-their-graduation/)
 
 **PREreview advisor** | Advisory committee (2018-) for [PREreview](https://prereview.org/), a platform and community project to crowdsource peer reviews on preprints
-
-## Employment
-
-2020-02 – current | Community Manager (maternity cover) @ [eLife](https://elifesciences.org/about/early-career)
-
-2018-10 – 2020-01 | Associate Director @ [ASAPbio](https://asapbio.org)  
-
-2016-11 – 2018-10 | Innovation Officer @ [eLife](https://elifesciences.org/labs)
-
-2016-02 – 2016-11 | Events Coordinator @ [eLife](https://elifesciences.org/)
 
 ## Events and talks
 
@@ -94,6 +94,7 @@ reproducible research](https://zenodo.org/record/1311612/files/RO2018-RDSabstrac
 * [Science communication: Know your audience](http://blogs.nature.com/naturejobs/2015/08/21/science-communication-know-your-audience/)
 
 ## Audio
+
 Featured on:
 * eLife Innovation Sprint 2019 podcast – speaking about the Hidden Preprints project and in conversation with Emmy Tsang about organising the Sprint event; produced by Jo Barratt, Hannah Drury and Elsa Loissel; available from the [eLife Labs blog](https://elifesciences.org/labs/c1978831/innovation-sprint-a-podcast) [archived](http://web.archive.org/web/20191008133909/https://elifesciences.org/labs/c1978831/innovation-sprint-a-podcast) and from [Soundcloud](https://soundcloud.com/user-442729760/elife-sprint-2019-podcast).
 * Science Disrupt podcast, recorded January 2019, released June 2019 [here](http://sciencedisrupt.libsyn.com/innovator-stories-episode-3) – **transcript TBD**
