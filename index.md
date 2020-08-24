@@ -15,13 +15,13 @@ I believe in people and planet over profit.
 
 <img src="/assets/img/Sprint2018photo.jpg" alt="The 60 participants at the eLife Sprint 2018 celebrate with raised hands in a group photo" style="height: 329px; width: 650px;"/>
 
-I am enthused by delivering great experiences and events. 
-
-<img src="/assets/img/ASAP-Bio-Workshop-2100x1050.jpg" alt="The 30 participants at the ASAPbio 2020 workshop in a group photo in front of Hinxton Hall" style="height: 325px; width: 650px;"/>
-
 I coach, I question, I facilitate, I think, I strategise, I design, I create.
 
 <img src="/assets/img/sprint2019facilitation_325x488.jpg" alt="Naomi leads project design session" style="height: 390px; width: 260px;"/> | <img src="/assets/img/mozfest2018wishtree.jpg" alt="A handmade wishing tree filled with project cards" style="height: 390px; width: 337px;"/>
+
+I am enthused by delivering great experiences and events. 
+
+<img src="/assets/img/ASAP-Bio-Workshop-2100x1050.jpg" alt="The 30 participants at the ASAPbio 2020 workshop in a group photo in front of Hinxton Hall" style="height: 325px; width: 650px;"/>
 
 To try to improve the benefit of science to society, and share the wealth science creates, I currently work to advocate for/build/promote equitable knowledge processes and communication.
 
