@@ -36,3 +36,5 @@ Tweet me: [@npscience](https://www.twitter.com/npscience)
 Email me at work: nc dot penfold at elifesciences dot org
 
 Rare pics on Instagram: [_npscience](https://www.instagram.com/_npscience/)
+
+Even rarer personal blog: [My trip to Japan, 2016](https://exocytosis.netlify.app/blog/travels-to-japan-april2016/)
