@@ -4,9 +4,6 @@ Welcome, explore my connected post-synaptic space. And reach out – perhaps we'
 
 # Chambers...
 * [My CV](/resume.md) – where have I been, what have I seen, read, written and said?
-<!--* *TBD* Weeknotes – what's been happening at work and in life?
-* *TBD* Soapbox – a space for developed thoughts (blogs) and undeveloped murmurs (scribbles)
-* *TBD* Gratitude reel — I'm no island-->
 * [Competing interests](/about-me.md)
 
 # At the nucleus...
@@ -38,3 +35,5 @@ Email me at work: nc dot penfold at elifesciences dot org
 Rare pics on Instagram: [_npscience](https://www.instagram.com/_npscience/)
 
 Even rarer personal blog: [My trip to Japan, 2016](https://exocytosis.netlify.app/blog/travels-to-japan-april2016/)
+
+Source code and image credits: [GitHub](https://github.com/npscience/npscience.github.io/)
