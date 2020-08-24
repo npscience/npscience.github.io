@@ -21,7 +21,7 @@ I am enthused by delivering great experiences and events.
 
 I coach, I question, I facilitate, I think, I strategise, I design, I create.
 
-<img src="/assets/img/sprint2019facilitation_325x488.jpg" alt="Naomi leads project design session" style="height: 420px; width: 280px;"/> | <img src="/assets/img/mozfest2018wishtree.jpg" alt="A handmade wishing tree filled with project cards" style="height: 420px; width: 370px;"/>
+<img src="/assets/img/sprint2019facilitation_325x488.jpg" alt="Naomi leads project design session" style="height: 390px; width: 260px;"/> | <img src="/assets/img/mozfest2018wishtree.jpg" alt="A handmade wishing tree filled with project cards" style="height: 390px; width: 337px;"/>
 
 To try to improve the benefit of science to society, and share the wealth science creates, I currently work to advocate for/build/promote equitable knowledge processes and communication.
 
@@ -30,6 +30,9 @@ To try to improve the benefit of science to society, and share the wealth scienc
 I am moved by injustice and inequality, humans facing hard times, mother earth, food and nutrition (I did a PhD on obesity and eating; my current curiosity is edible :bug: :cricket:)
 
 # Channels...
+
 Tweet me: [@npscience](https://www.twitter.com/npscience)
+
 Email me at work: nc dot penfold at elifesciences dot org
+
 Rare pics on Instagram: [_npscience](https://www.instagram.com/_npscience/)
