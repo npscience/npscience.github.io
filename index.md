@@ -10,5 +10,6 @@ Welcome, explore my connected post-synaptic space. And reach out – perhaps we'
 * *TBD* Gratitude reel — I'm no island-->
 
 # Channels
-Tweet me: @npscience
+Tweet me: [@npscience](https://www.twitter.com/npscience)
 Email me at work: nc dot penfold at elifesciences dot org
+Rare pics on Instagram: [_npscience](https://www.instagram.com/_npscience/)
