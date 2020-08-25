@@ -54,13 +54,13 @@ Slides and recordings for ASAPbio talks are available from [asapbio.org/resource
 | WACCBIP annual symposium 2019 | Accra, Ghana | Jul 24, 2019 | Speaker | 15-minute talk on 'Preprints: an opportunity for African Science?' ([slides](https://doi.org/10.5281/zenodo.3346063); [video](https://youtu.be/JghmJOjy0l4?t=1616)) |
 | FAIR Science Edinburgh | University of Edinburgh, UK | June 4, 2019 | Speaker | Preprints as part of the open science toolbox, presented to attendees of a reproducible research one-day workshop at Uni of Edinburgh - [slides](https://docs.google.com/presentation/d/1oTN5UmOZEQkZO62Y8wEVQHEgnrt5-qMjDEBH_Ah3MmA/edit?usp=sharing) |
 | [CCBI Annual Symposium](https://www.eventbrite.co.uk/e/ccbi-annual-symposium-tickets-60726345133) | Cambridge, UK | May 15, 2019 | Speaker | [slides](https://docs.google.com/presentation/d/1G-aVH5NimKRgMz1fnRFnPQ4ioaabUDFBR8zBQTgKw_c/edit?usp=sharing) |
-| University of Cambridge Lunch & Learn | Cambridge, UK | April 26, 2019 | Workshop organiser & lead | *TBC* |
+| University of Cambridge Lunch & Learn | Cambridge, UK | April 26, 2019 | Workshop organiser & lead | *no notes* |
 | OpenCon 2018 | Toronto, Canada | Nov 2-4, 2018 | Regional workshop co-lead with Katerina Dima | [Workshop session link](https://sched.co/IPEC) |
 | MozFest 2018 | London, UK | Oct 26-28, 2018 | Activity support to co-organisers Stuart King and Elsa Loissel | *Hello, do you hear me? The other side of open science* [proposal](https://github.com/MozillaFestival/mozfest-program-2018/issues/286) |
 | FORCE 2018 | Montreal, Canada | Oct 2018 | Attendee | *no notes* |
 | [Wholetale workshop](https://wholetale.org/2018/06/26/working-group-workshop.html) | Chicago, US | Sep 13-14, 2018 | Lightning Talk | [Slides on reproducibility](https://figshare.com/articles/eLife_Reproducible_Document_Stack_lightning_talk_WholeTale_workshop_September_2018/7076822) |
 | [Software Deposition Workshop](https://www.eventbrite.co.uk/e/software-deposit-and-preservation-workshop-tickets-46441779613) | Oxford, UK | July 11, 2018 | Speaker | [Slides](https://figshare.com/articles/Software_preservation_a_publisher_s_perspective/6799097) |
-| CCBI Annual Symposium | Cambridge, UK | May 16, 2018 | Speaker | *TBC* |
+| CCBI Annual Symposium | Cambridge, UK | May 16, 2018 | Speaker | *no notes* |
 | [eLife Innovation Sprint](https://elifesciences.org/events/c40798c3/elife-innovation-sprint-2018) | Cambridge, UK | May 10-11, 2018 | Creator + lead organiser | Collaborative event for open-source technologists + open science enthusiasts to prototype for open science - [summary webpage](https://sprint.elifesciences.org/sprint-2018/) |
 | Better Science Ideathon MIT | Boston, US | April 23, 2018 | Participant | *no notes* |
 | [Sage Assembly](http://sageassembly.org/) | Seattle, US | April 19-21, 2018 | Participant | *no notes* |
@@ -98,7 +98,7 @@ reproducible research](https://zenodo.org/record/1311612/files/RO2018-RDSabstrac
 
 Featured on:
 * eLife Innovation Sprint 2019 podcast – speaking about the Hidden Preprints project and in conversation with Emmy Tsang about organising the Sprint event; produced by Jo Barratt, Hannah Drury and Elsa Loissel; available from the [eLife Labs blog](https://elifesciences.org/labs/c1978831/innovation-sprint-a-podcast) [archived](http://web.archive.org/web/20191008133909/https://elifesciences.org/labs/c1978831/innovation-sprint-a-podcast) and from [Soundcloud](https://soundcloud.com/user-442729760/elife-sprint-2019-podcast).
-* Science Disrupt podcast, recorded January 2019, released June 2019 [here](http://sciencedisrupt.libsyn.com/innovator-stories-episode-3) – **transcript TBD**
+* Science Disrupt podcast, recorded January 2019, released June 2019 [here](http://sciencedisrupt.libsyn.com/innovator-stories-episode-3) – _transcript to follow_
 * Open science podcast by Rachel Harding, recorded in interview with Daniela Saderi at FORCE 2018 (October 2018) and released (with a transcript) by the Canadian Open Neuroscience Platform (CONP) [here](https://conp.ca/conp-at-force11-2018-with-naomi-penfold-and-daniela-saderi/) [archived](http://web.archive.org/web/20191008134533/https://conp.ca/conp-at-force11-2018-with-naomi-penfold-and-daniela-saderi/) and on [Soundcloud](https://soundcloud.com/neuro-libre/conp-at-force-11-2018-with-naomi-and-daniella/s-WibBx#t=0:00)
 
 ## Education
