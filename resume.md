@@ -6,6 +6,7 @@ ORCID [0000-0003-0568-1194](http://orcid.org/0000-0003-0568-1194) | LinkedIn [na
 
 Twitter [@npscience](https://twitter.com/npscience) | Github [@npscience](https://github.com/npscience) 
 
+
 ## My focus
 - **Championing and supporting others** — including asking the right questions, but not necessarily evaluation or feedback; I’m a coach, not a referee. I am proud to be a mentor for Open Life Sciences.
 - **Events that build community** — thinking about the people, what they need in order to engage with each other, be productive together,  feel part of something and welcomed. I love participating in well-organised communities like CSCCE and The Turing Way.
@@ -15,7 +16,13 @@ Twitter [@npscience](https://twitter.com/npscience) | Github [@npscience](https:
 
 ## Employment
 
-2020-02 – current | Community Manager (maternity cover) @ [eLife](https://elifesciences.org/about/early-career)
+At work, I am a Funding Programme Designer at Science Practice. I work with funders to design more inclusive, transparent, and strategic grantmaking and philanthropy sector. Key skills: qualitative research, programme design, event facilitation, communications.
+
+My previous experience includes: academic research in biomedical science (PhD, 2017, University of Cambridge), supporting the early-career researcher community and promoting open science and transparency in research communication / science publishing (eLife, 2016-2018, 2020; ASAPbio, 2018-2020; mentor, Open Life Science, 2020; advisor, PREreview, 2018-2020; fellow, CSCCE Community Engagement Fellowship Program (CEFP 2019)). 
+
+2020-11 - | Funding Programme Designer @ [Science Practice](https://www.science-practice.com/)
+
+2020-02 – 2020-10 | Community Manager (maternity cover) @ [eLife](https://elifesciences.org/about/early-career)
 
 2018-10 – 2020-01 | Associate Director @ [ASAPbio](https://asapbio.org)  
 
@@ -25,17 +32,18 @@ Twitter [@npscience](https://twitter.com/npscience) | Github [@npscience](https:
 
 ## Professional Development
 
-**UAL Service Design Short Course, Summer 2020** | 7-week online course by Megha Wadhawan, University of Arts London, introducing service design and key methodologies and principles, June-August 2020. _Portfolio pending._
+**Dryad Board of Directors** | Treasurer (2020-ongoing) during 2019-2022 term on Board of Directors for [Dryad](https://datadryad.org/stash), a non-profit open research data repository
+
+**Open Life Science community mentorship** | Mentor for Open Life Science, a 15-week mentoring & training program for Open Science ambassadors, for [cohort 1](https://openlifesci.org/ols-1) (January-April 2020) and [cohort 2](https://openlifesci.org/ols-2) (September-December 2020. **Check out Cass Gould van Praag's amazing work** as[Open Science Community Engagement Coordinator](https://www.win.ox.ac.uk/open-neuroimaging) for the Wellcome Centre for Integrative Neuroimaging, University of Oxford & find her on [GitHub](https://github.com/cassgvp); **Look out for Harriet Natabona Mukhongo ([Twitter](https://twitter.com/hnatabona)), Brenda Muthoni [Twitter](https://twitter.com/brendaksoni) and Jelioth Muthoni**, who taught me how to be both a learner and a critical friend.
+
+
+**UAL Service Design Short Course, Summer 2020** | 7-week online course by Megha Wadhawan, University of Arts London, introducing service design and key methodologies and principles, June-August 2020.
 
 **Transition to Line Management course** | Training given via Cambridge Network, delivered by Des Williams and Debby Lewis, DG International - introducing key concepts for line management and people-first approach, June-July 2020.
 
-**Open Life Sciences community mentorship** | Mentor for Open Life Science, a 15-week mentoring & training program for Open Science ambassadors, for [cohort 1](https://openlifesci.org/ols-1) (January-April 2020) and [cohort 2](https://openlifesci.org/ols-2) (due to start in September 2020)
-
-**Dryad Board of Directors** | Interim treasurer (2020-) during 2019-2022 term on Board of Directors for [Dryad](https://datadryad.org/stash), a non-profit open research data repository
-
 **CSCCE CEFP 2019 fellowship** | Scientific Community Engagement Fellowship by [CSCCE](https://www.cscce.org/cefp/meet-our-fellows/), including learning about community management best practices and theory, developing strategy and a handover document for ASAPbio ambassadors, and running a survey of community members across 14 scientific communities to understand why people start contributing, what helps them stay, and why they may leave (see 'Busy Bees' at https://www.cscce.org/cefp/cefp-project-teams/) - and see [the cohort celebrate our graduation](https://www.cscce.org/2020/01/22/congratulations-to-the-cef2019-fellows-on-their-graduation/)
 
-**PREreview advisor** | Advisory committee (2018-) for [PREreview](https://prereview.org/), a platform and community project to crowdsource peer reviews on preprints
+**PREreview advisor** | Advisory committee (2018-2020) for [PREreview](https://prereview.org/), a platform and community project to crowdsource peer reviews on preprints
 
 ## Events and talks
 
