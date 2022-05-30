@@ -20,7 +20,7 @@ At work, I am a Funding Programme Designer at Science Practice. I work with fund
 
 My previous experience includes: academic research in biomedical science (PhD, 2017, University of Cambridge), supporting the early-career researcher community and promoting open science and transparency in research communication / science publishing (eLife, 2016-2018, 2020; ASAPbio, 2018-2020; mentor, Open Life Science, 2020; advisor, PREreview, 2018-2020; fellow, CSCCE Community Engagement Fellowship Program (CEFP 2019)). 
 
-2020-11 - | Funding Programme Designer @ [Science Practice](https://www.science-practice.com/)
+2020-11 - 2022-04 | Funding Programme Designer @ [Science Practice](https://www.science-practice.com/)
 
 2020-02 – 2020-10 | Community Manager (maternity cover) @ [eLife](https://elifesciences.org/about/early-career)
 
