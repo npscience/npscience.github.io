@@ -82,6 +82,7 @@ Slides and recordings for ASAPbio talks are available from [asapbio.org/resource
 | Mozilla Global Sprint | London, UK | June 1-2, 2017 | Participant | *no notes* |
 | ODSC East | Boston, US | May 3-5, 2017 | Participant | *no notes* |
 | csv,conf,v3 | Portland, US | May 2-3, 2017 | Speaker | [Slides](https://figshare.com/articles/csvconfv3-presentation/4964999) |
+| OpenDataCamp (UK) | Cardiff, Wales | February 2017 | Participants | *no notes* |
 
 ## Writing
 Academic works (preprints, articles, peer review reports) are collated at https://orcid.org/0000-0003-0568-1194.
